@@ -19,6 +19,24 @@
       ]
     },
     {
+      "boycott_name": "ABC Shampoo",
+      "boycott_brand": "ABC",
+      "boycott_reason": "প্রতিকূল উপাদান ব্যবহার",
+      "boycott_image": "https://i.ibb.co.com/HXxC537/amin.png",
+      "alternatives": [
+        {
+          "name": "XYZ Shampoo",
+          "brand": "XYZ",
+          "image": "https://i.ibb.co.com/HXxC537/amin.png"
+        },
+        {
+          "name": "LMN Shampoo",
+          "brand": "LMN",
+          "image": "https://i.ibb.co.com/HXxC537/amin.png"
+        }
+      ]
+    },
+    {
       "boycott_name": "DEF Toothpaste",
       "boycott_brand": "DEF",
       "boycott_reason": "ক্ষতিকারক রাসায়নিক",
