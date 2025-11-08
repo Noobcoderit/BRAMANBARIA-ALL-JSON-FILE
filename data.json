@@ -1,18 +1,19 @@
 [
   {
-    "name": "Dr. Rahim",
+    "name": "Dr. শাকিল",
     "specialty": "Cardiologist",
     "location": "Brahmanbaria"
   },
   {
-    "name": "Dr. Karim",
+    "name": "Dr. ফিরোজ",
     "specialty": "Dentist",
     "location": "Nabinagar"
   },
   {
-    "name": "Dr. Ayesha",
+    "name": "Dr. মাক্কা",
     "specialty": "Child Specialist",
     "location": "Ashuganj"
   }
 ]
+
 
